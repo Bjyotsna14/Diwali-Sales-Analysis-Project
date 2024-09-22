@@ -33,11 +33,11 @@ Our approach to the Diwali Sales Analysis project encompasses the following step
 # Conclusion
 The Diwali Sales Analysis project has shed light on several crucial insights that can shape our future business strategies. These insights include:
 
--The substantial contribution of females to both order count and expenditure, emphasizing the need for gender-targeted marketing strategies.
--The age group of 26 to 45 emerging as the prime spending segment for both genders.
--Key geographic regions, such as Uttar Pradesh, Maharashtra, Karnataka, and Delhi, driving order frequency and total expenditure.
--Notable engagement from industries like IT, Healthcare, Aviation, and Banking, suggesting opportunities for tailored marketing efforts.
--High demand for product categories like Food, Clothing, Electronics, and Footwear.
+- The substantial contribution of females to both order count and expenditure, emphasizing the need for gender-targeted marketing strategies.
+- The age group of 26 to 45 emerging as the prime spending segment for both genders.
+- Key geographic regions, such as Uttar Pradesh, Maharashtra, Karnataka, and Delhi, driving order frequency and total expenditure.
+- Notable engagement from industries like IT, Healthcare, Aviation, and Banking, suggesting opportunities for tailored marketing efforts.
+- High demand for product categories like Food, Clothing, Electronics, and Footwear.
 # Recommendations
 Based on our analysis, we propose the following recommendations:
 
